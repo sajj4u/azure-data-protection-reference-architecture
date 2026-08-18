@@ -96,6 +96,11 @@ flowchart TD
 
 - [Implementation Checklist](docs/implementation-checklist.md)
 - [Recovery Validation Checklist](docs/recovery-validation-checklist.md)
+- [Recovery Test Record Template](docs/recovery-test-record-template.md)
+
+## License
+
+This repository is available under the [MIT License](LICENSE).
 
 ## Professional Context
 
